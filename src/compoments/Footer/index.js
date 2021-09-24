@@ -4,17 +4,11 @@ import {
     FaFacebook,
     FaInstagram,
     FaTwitter,
-    FaYoutube,
     FaLinkedin
 } from 'react-icons/fa'
 import {
     FooterContainer,
     FooterWrap,
-    FooterLinksContainer,
-    FooterLinksWrapper,
-    FooterLinkItems,
-    FooterLinkTitle,
-    FooterLink,
     SocialMedia,
     SocialMediaWrap,
     SocialLogo,

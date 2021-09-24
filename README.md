@@ -2,13 +2,13 @@
 
 #
 
-<div align="center">
-
 ![Badge](https://img.shields.io/badge/React-17.0.2-blue)
-![GitHub top language](https://img.shields.io/github/languages/top/gabiruu/Onyx-Spa)
-![GitHub repo size](https://img.shields.io/github/repo-size/gabiruu/Onyx-Spa)
-![GitHub last commit](https://img.shields.io/github/last-commit/gabiruu/Onyx-Spa)
-![GitHub](https://img.shields.io/github/license/gabiruu/Onyx-Spa)
+![GitHub top language](https://img.shields.io/github/languages/top/gabiruu/onyx-single-page)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/gabiruu/onyx-single-page)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/gabiruu/onyx-single-page)
+![GitHub](https://img.shields.io/github/license/gabiruu/onyx-single-page)
 
 #
 
@@ -23,8 +23,6 @@
 - [Pré-requisitos](#Pré-requisitos)
 - [Como usar](#como-usar)
   - [Pre Requisitos](#pre-requisitos)
-  - [PHP](##PHP)
-  - [Mysql](##Mysql)
 - [Tecnologias](#tecnologias)
 <!--te-->
 
@@ -49,9 +47,9 @@ Cerifique-se de ter o [React](https://pt-br.reactjs.org/) e o [Git](https://gith
 
 Com o Git e o React instalado na sua maquina e a URL do projeto em mãos, crie uma pasta para receber o projeto, dentro dela abra o cmd ou powershell e digite os comandos abaixo:
 
-### `git clone https://github.com/Gabiruu/Onyx-Spa`
+### `git clone https://github.com/Gabiruu/onyx-single-page`
 
-### `cd Onyx-Spa`
+### `cd onyx-single-page`
 
 ## REACT
 
@@ -77,7 +75,7 @@ Com essas instruções feitas com sucesso, Podemos então começar o uso do proj
  <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/38928677?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
 </a>
 
-🛠️ Feito por <a href="https://github.com/Gabiruu/" alt="">Gabriel Alves Reis</a>
+🛠️ Feito por <a href="https://github.com/Gabiruu/" alt="Foto perfil">Gabriel Alves Reis</a>
 
 📬 Entre em contato!
 
